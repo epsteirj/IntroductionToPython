@@ -42,13 +42,6 @@ for k in range (3):
     red_turtle.left(90)
     red_turtle.forward(30)
 
-for k in range (3):
-    red_turtle.left(90)
-    red_turtle.forward(30)
-
-for k in range (3):
-    red_turtle.left(90)
-    red_turtle.forward(30)
 
 #  Be creative!  Strive for way-cool pictures!  Abstract pictures rule!
 #
